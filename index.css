@@ -1,0 +1,31 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.center{
+  background-color: black;
+  height: 37rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+#banner{
+  color: white;
+}
+
+#clock{
+  background-color: gold;
+  height: 2rem;
+  width: 6rem;
+  border-radius: 2rem;
+}
+
+#clock{
+    padding-top: 1rem;
+    padding-left:0.7rem ;
+
+}
